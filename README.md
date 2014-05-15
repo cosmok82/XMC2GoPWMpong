@@ -1,22 +1,22 @@
-XMC2GoPWMpong
+**XMC2GoPWMpong**
 =============
 
-ver 1.0.0
+tutorial ver 1.0.0
 
-DESCRIPTION:<br>
+**DESCRIPTION:**<br>
  This example demonstrate the PWMSP001 App.<br>
- The Period Match Interrupt of PWMSP001 will be used to determine the duty cycle of the LEDs 1 and 2.<br>
+ The Period Match Interrupt of PWMSP001 will be used to determine the duty cycle of the LEDs 1 & 2.<br>
  The on-board LED 1 (Port 1.0) will be bright with duty cycle from 0% to 100%.<br>
  The on-board LED 2 (Port 1.1) will be bright with duty cycle from 1000% to 0%.<br>
  The NVIC002 App needs to be connected accordingly for the PWMSP001/0 & PWMSP001/1 period match interrupt.<br>
   
-REQUIREMENTS:<br>
+**REQUIREMENTS:**<br>
 - J-Link Drivers installed on PC
 - J-Link v4.59 or above
 - XMC1100 XMC 2Go CPU Card
 - alternatively XMC1200 or XMC1300 Boot kit can be used
 
-**SETUP: Connect the USB cable with XMC1100 or XMC1200 or XMC1300 CPU card.**
+**SETUP:** Connect the USB cable with XMC1100 or XMC1200 or XMC1300 CPU card.<br>
 
 **HOW TO CREATE THE PROJECT:**
 - 1 Instantiate PWMSP001 App and NVIC002 App from App Selection View
