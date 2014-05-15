@@ -1,4 +1,4 @@
-**XMC 2Go PWM pong**
+**XMC 2Go tutorial: PWM pong by C/D**
 =============
 
 tutorial ver 1.0.0
