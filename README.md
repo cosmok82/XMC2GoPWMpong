@@ -1,4 +1,4 @@
-**XMC2GoPWMpong**
+**XMC 2Go PWM pong**
 =============
 
 tutorial ver 1.0.0
