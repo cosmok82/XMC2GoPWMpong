@@ -3,6 +3,13 @@
 
 tutorial ver 1.0.0
 
+<div style="text-align: center;">
+<a href="http://1.bp.blogspot.com/-oOjh7Qmq164/U3Ti7VtSq-I/AAAAAAAAC-8/YQfsdD4Ha0g/s1600/DSCF6185_.jpg">
+<img alt="img" src="http://1.bp.blogspot.com/-oOjh7Qmq164/U3Ti7VtSq-I/AAAAAAAAC-8/YQfsdD4Ha0g/s1600/DSCF6185_.jpg">
+</a>
+</div>
+<br>
+
 **DESCRIPTION:**<br>
  This example demonstrate the PWMSP001 App.<br>
  The Period Match Interrupt of PWMSP001 will be used to determine the duty cycle of the LEDs 1 & 2.<br>
